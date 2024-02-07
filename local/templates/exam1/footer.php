@@ -1,5 +1,7 @@
-<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();?>
-
+<? if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) die(); ?>
+</div>
+</div>
+<!-- /content -->
 <!-- side -->
 <div class="side">
     <!-- side menu -->
@@ -46,9 +48,9 @@
         <div class="item-wrap">
             <!-- side action -->
             <div class="side-block side-action">
-                <img src="<?=SITE_TEMPLATE_PATH?>/img/side-action-bg.jpg" alt="" class="bg">
+                <img src="<?= SITE_TEMPLATE_PATH ?>/img/side-action-bg.jpg" alt="" class="bg">
                 <div class="photo-block">
-                    <img src="<?=SITE_TEMPLATE_PATH?>/img/side-action.jpg" alt="">
+                    <img src="<?= SITE_TEMPLATE_PATH ?>/img/side-action.jpg" alt="">
                 </div>
                 <div class="text-block">
                     <div class="title">Акция!</div>
@@ -68,13 +70,14 @@
                         <div class="inner-block">
                             <div class="title">
                                 <div class="photo-block">
-                                    <img src="<?=SITE_TEMPLATE_PATH?>/img/side-opin.jpg" alt="">
+                                    <img src="<?= SITE_TEMPLATE_PATH ?>/img/side-opin.jpg" alt="">
                                 </div>
                                 <div class="name-block"><a href="">Дмитрий Иванов</a></div>
                                 <div class="pos-block">Генеральный директор,"Офис+"</div>
                             </div>
                             <div class="text-block">“В магзине предоставили потрясающий выбор
-                                расцветок, а также, получил большую скидку по карте постоянного...</div>
+                                расцветок, а также, получил большую скидку по карте постоянного...
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -83,13 +86,14 @@
                         <div class="inner-block">
                             <div class="title">
                                 <div class="photo-block">
-                                    <img src="<?=SITE_TEMPLATE_PATH?>/img/side-opin.jpg" alt="">
+                                    <img src="<?= SITE_TEMPLATE_PATH ?>/img/side-opin.jpg" alt="">
                                 </div>
                                 <div class="name-block"><a href="">Дмитрий Иванов</a></div>
                                 <div class="pos-block">Генеральный директор,"Офис+"</div>
                             </div>
                             <div class="text-block">“В магазине предоставили потрясающий выбор
-                                расцветок, а также, получил большую скидку по карте постоянного...</div>
+                                расцветок, а также, получил большую скидку по карте постоянного...
+                            </div>
                         </div>
                     </div>
                 </div>
