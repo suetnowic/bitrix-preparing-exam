@@ -7,7 +7,7 @@
                 <? if (!empty($arResult)) { ?>
                 <div class="menu popup-block">
                     <ul class="">
-                        <li class="main-page"><a href=""><?= Loc::getMessage("MENU_ITEM_GENERAL") ?></a>
+                        <li class="main-page"><a href="<?=SITE_DIR?>"><?= Loc::getMessage("MENU_ITEM_GENERAL") ?></a>
                         </li>
                         <?
                         $previousLevel = 0;
