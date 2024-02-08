@@ -18,7 +18,7 @@ $aMenuLinks = Array(
 		"Расписание мероприятий", 
 		"/partneram/raspisanie-meropriyatiy/", 
 		Array(), 
-		Array(), 
+		Array("SUB_TITLE" => "это текст для пункта \"Расписание мероприятий\""),
 		"" 
 	)
 );
