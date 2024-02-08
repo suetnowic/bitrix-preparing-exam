@@ -34,6 +34,20 @@ $aMenuLinks = Array(
 		Array(), 
 		Array("SUB_TITLE"=>"это текст для пункта \"Партнерам\""), 
 		"" 
+	),
+	Array(
+		"Отзывы", 
+		"/rew/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Поиск", 
+		"/search/index.php", 
+		Array(), 
+		Array(), 
+		"" 
 	)
 );
 ?>
